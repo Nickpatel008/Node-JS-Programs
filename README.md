@@ -2,4 +2,4 @@
 
 # Play Game
 
-[a link](https://replit.com/@Dhaval008/Quiz-Game#index.js)
+[Click Here](https://replit.com/@Dhaval008/Quiz-Game#index.js)
