@@ -2,7 +2,7 @@
 
 # Play Game
 
-[Click Here](https://github.com/Nickpatel008/Node-JS-Programs)
+[Click Here](https://replit.com/@Dhaval008/Quiz-Game#index.js)
 
 
 
